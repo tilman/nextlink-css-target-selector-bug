@@ -1,7 +1,6 @@
 import Link from "next/link";
 
-/** Add your relevant code here for the issue to reproduce */
-export default function Home() {
+export default async function Home2() {
   return (
     <div>
       Regular anchor tags:
